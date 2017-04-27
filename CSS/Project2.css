@@ -1,8 +1,17 @@
 html {
-	background-color: Gainsboro;
+	background-color: #ffe6ff;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
 	}
+nav {
+	padding: 0.24em;
+	text-transform: uppercase;
+	letter-spacing: 0.375em;
+	text-align: center;
+}
 p {
-	margin: 0;
+	margin: auto;
 	font-size: 150%;
 	padding: 10px;
 	color: purple;
@@ -14,7 +23,7 @@ h1 {
 	font-size: 200%;
 	font-weight: bold;
 	text-align: center;
-	background-color: green;
+	background-color: #bbff99;
 	width: 1350px;
 	color: black;	
 }
@@ -30,7 +39,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: RoyalBlue;	
+	background-color: #ff9999;	
 }
 ol li {
 	text-decoration: underline;
